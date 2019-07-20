@@ -1,6 +1,6 @@
 GIT DEMO
 
-Changes done in Local.
+Changes done in Local. Changed for conflict by Sindhu.
 
 Added changes by suman
 test 
